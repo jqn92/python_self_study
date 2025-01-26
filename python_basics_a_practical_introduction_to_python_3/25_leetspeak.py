@@ -1,0 +1,10 @@
+# Translates user's input to leetspeak
+user_input = input("Enter some text: ")
+##user_input.replace("a", "4")
+##user_input.replace("b", "8")
+##user_input.replace("e", "3")
+##user_input.replace("l", "1")
+##user_input.replace("o", "0")
+##user_input.replace("s", "5")
+##user_input.replace("t", "7")
+print(user_input.replace("a", "4").replace("b", "8").replace("e", "3").replace("l", "1").replace("o", "0").replace("s", "5").replace("t", "7"))
