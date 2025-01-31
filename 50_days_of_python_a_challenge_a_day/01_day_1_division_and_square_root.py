@@ -6,7 +6,8 @@
 #  if it is divisible by 5, 
 # returns its remainder if it is not divisible by 5.
 #  For example, if you pass 10 as an argument, 
-# then your function should return 3.16 as the square root. 
+# then your function should return 3.16 as the square root.
+
 import math
 def divide_or_square(number):
     if (number % 5 == 0):
